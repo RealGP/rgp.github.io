@@ -1,5 +1,5 @@
 ---
-category: Losing weight   
+category: How to lose weight
 title: Mediterranean Diet - A combination of foods from the mediterranean proven to protect against heart disease
 description: Link to Patient Information Leaflet from patient.info
 audio: 

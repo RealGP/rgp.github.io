@@ -1,5 +1,5 @@
 ---
-category: Losing weight   
+category: How to lose weight  
 title: 5:2 (fast) diet - On 2 convenient days a week you follow a low calorie diet. The rest of the time it’s OK to be a little naughty. A great way to lose weight. Ideal for those who aren’t good at sticking to diets.
 description: Link to Patient Information Leaflet from patient.info
 audio: 

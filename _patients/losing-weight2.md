@@ -1,5 +1,5 @@
 ---
-category: Losing weight   
+category: How to lose weight
 title: Low GI Diet - Slow release carbohydrates that help to keep you blood sugars down and prevent type 2 diabetes
 description: Link to Patient Information Leaflet from patient.info
 audio: 

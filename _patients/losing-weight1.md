@@ -1,5 +1,5 @@
 ---
-category: Losing Weight
+category: How to lose weight
 title: Shared decision options audio. Dr Keith Birrell with Mark who wants to lose weight
 description: Listen to Dr Keith Birrell guiding Mark to make informed decisions to help him lose weight
 audio: /assets/audio/Mark - Weight - Options - MQ.mp3
