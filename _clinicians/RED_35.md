@@ -6,6 +6,6 @@ description: 35 Anxiety and social anxiety disorder
 audio: /assets/audio/Red Flags Questions, Provide & Safety Nets - 35 Anxiety and social anxiety disorder - MQ.mp3
 article: /assets/publication/35 Anxiety.pdf
 www: 
-keywords: Keith Birrell, Tamzin Ross, red flag, Gynaecomastia
+keywords: Keith Birrell, Tamzin Ross, red flag, Anxiety, social, disorder
 youtube: 
 --- 
