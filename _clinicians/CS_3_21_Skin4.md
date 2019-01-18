@@ -8,4 +8,10 @@ article:
 www: 
 keywords: fungal, nail, infection
 youtube:
+patient-script: /assets/publication/Roxanne - Patient.pdf
+doctors-note: /assets/publication/Roxanne - Doctor.pdf
+findings: /assets/publication/Roxanne - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Roxanne - mapping the doctor's words.pdf
+transcription: /assets/publication/Roxanne - transcription.pdf
 --- 

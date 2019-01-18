@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Anal, fissure
 youtube:
---- 
+patient-script: /assets/publication/Adrian - Patient.pdf
+doctors-note: /assets/publication/Adrian - Doctor.pdf
+findings: /assets/publication/Adrian - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Adrian - mapping the doctor's words.pdf
+transcription: /assets/publication/Adrian - transcription.pdf
+---

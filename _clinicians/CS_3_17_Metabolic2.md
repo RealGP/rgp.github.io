@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Cramp, proton pump inhibitor, PPI
 youtube:
+patient-script: /assets/publication/Tom - Patient.pdf
+doctors-note: /assets/publication/Tom - Doctor.pdf
+findings: /assets/publication/Tom - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Tom - mapping the doctor's words.pdf
+transcription: /assets/publication/Tom - transcription.pdf
 --- 

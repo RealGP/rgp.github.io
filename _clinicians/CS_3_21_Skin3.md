@@ -8,4 +8,10 @@ article:
 www: 
 keywords: eczema
 youtube:
+patient-script: /assets/publication/Angelica - Patient.pdf
+doctors-note: /assets/publication/Angelica - Doctor.pdf
+findings: /assets/publication/Angelica - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Angelica - mapping the doctor's words.pdf
+transcription: /assets/publication/Angelica - transcription.pdf
 --- 

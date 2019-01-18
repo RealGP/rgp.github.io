@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Constipation
 youtube:
---- 
+patient-script: /assets/publication/Lily - Patient.pdf
+doctors-note: /assets/publication/Lily - Doctor.pdf
+findings: /assets/publication/Lily - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Lily - mapping the doctor's words.pdf
+transcription: /assets/publication/Lily - transcription.pdf
+---

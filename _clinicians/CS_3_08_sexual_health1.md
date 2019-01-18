@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Sexual health, UTI, urinary tract infection, sexually transmitted infection, transmissible
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
+patient-script: /assets/publication/April - Patient.pdf
+doctors-note: /assets/publication/April - Doctor.pdf
+findings: /assets/publication/April - examination findings.pdf
 lejog: /assets/publication//assets/publication/LEJOG.pdf
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+doctors-word: /assets/publication/April - mapping the doctor's words.pdf
+transcription: /assets/publication/April - transcription.pdf
 --- 
