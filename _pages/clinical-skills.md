@@ -43,9 +43,9 @@ description: Real role play scenarios for your clinical skills assessment study 
                 <th>Audio/Video</th>
                 <th>Patient Script</th>
                 <th>Doctor's Notes</th>
-                <th>Examination findings and trainers comments</th>
+                <th>Examination findings and trainer's comments</th>
                 <th>LEJOG map</th>
-                <th>Mapping the doctors words</th>
+                <th>Mapping the doctor's words</th>
                 <th>Transcription</th>
                 <th>Key Words</th>
             </tr>
