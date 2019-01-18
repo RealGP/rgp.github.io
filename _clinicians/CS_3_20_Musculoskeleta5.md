@@ -8,4 +8,10 @@ article:
 www: 
 keywords: ankle, pain
 youtube:
+patient-script: /assets/publication/Belinda - Patient.pdf
+doctors-note: /assets/publication/Belinda - Doctor.pdf
+findings: /assets/publication/Belinda - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Belinda - mapping the doctor's words.pdf
+transcription: /assets/publication/Belinda - transcription.pdf
 --- 

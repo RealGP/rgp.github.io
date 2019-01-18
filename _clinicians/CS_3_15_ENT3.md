@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Eustachian, tube, dysfunction, flu 
 youtube:
---- 
+patient-script: /assets/publication/Polly - Patient.pdf
+doctors-note: /assets/publication/Polly - Doctor.pdf
+findings: /assets/publication/Polly - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Polly - mapping the doctor's words.pdf
+transcription: /assets/publication/Polly - transcription.pdf
+---

@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Benign paroxysmal positional vertigo, BPPV, Hallpike manoeuvre
 youtube:
---- 
+patient-script: /assets/publication/Oliver - Patient.pdf
+doctors-note: /assets/publication/Oliver - Doctor.pdf
+findings: /assets/publication/Oliver - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Oliver - mapping the doctor's words.pdf
+transcription: /assets/publication/Oliver - transcription.pdf
+---

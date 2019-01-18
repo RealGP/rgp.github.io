@@ -8,4 +8,10 @@ article:
 www: 
 keywords: neck, pain, chronic
 youtube:
+patient-script: /assets/publication/Evie - Patient.pdf
+doctors-note: /assets/publication/Evie - Doctor.pdf
+findings: /assets/publication/Evie - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Evie - mapping the doctor's words.pdf
+transcription: /assets/publication/Evie - transcription.pdf
 --- 

@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Grief, death
 youtube:
---- 
+patient-script: /assets/publication/Jane - Patient.pdf
+doctors-note: /assets/publication/Jane - Doctor.pdf
+findings: /assets/publication/Jane - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Jane - mapping the doctor's words.pdf
+transcription: /assets/publication/Jane - transcription.pdf
+---

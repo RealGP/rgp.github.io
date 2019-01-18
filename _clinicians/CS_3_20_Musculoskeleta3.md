@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Chronic, low back pain, COPD, Chronic Obstructive Pulmonary disease
 youtube:
+patient-script: /assets/publication/Denise - Patient.pdf
+doctors-note: /assets/publication/Denise - Doctor.pdf
+findings: /assets/publication/Denise - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Denise - mapping the doctor's words.pdf
+transcription: /assets/publication/Denise - transcription.pdf
 --- 
