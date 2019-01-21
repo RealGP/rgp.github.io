@@ -3,7 +3,7 @@ area: Clinical Skills
 category: 3.19 Respiratory Health
 title: Cough
 description: Roxanne talks to Dr Birrell
-audio: 
+audio: /assets/audio/Doctor - Roxanne - Cough REV - MQ.mp3
 article: 
 www: 
 keywords: Cough, virus, viral, upper respiratory tract infection
