@@ -3,7 +3,7 @@ layout: post
 title:  "Northumbria Healthcare Trust Deploy PROMs Trial Solution"
 date:   2018-07-31 13:00
 categories: news
-thumbnail: "/assets/img/proms.jpg"
+thumbnail: "<iframe width="50%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/562846005%3Fsecret_token%3Ds-2Tvto&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>"
 description: PROMs or Patient Reported Outcomes Measures and are a patient-led assessment of health – telling us how the patient feels they are doing.  Patients are asked ‘How are you today?’ alongside questions based on the procedure(s) being undertaken which are validated tools calculate a numerical score. 
 ---
 
