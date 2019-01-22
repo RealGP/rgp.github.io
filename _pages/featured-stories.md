@@ -40,6 +40,5 @@ title:  "Featured Stories"
 		 </div>
 		</div>
     </section>
-    <section>
-    <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/562846005%3Fsecret_token%3Ds-2Tvto&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-    </section>
+        <iframe width="50%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/562846005%3Fsecret_token%3Ds-2Tvto&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
+   
