@@ -68,6 +68,10 @@ description: Real role play scenarios for your clinical skills assessment study 
                 {% else %}
                 <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="23px"></a>
                 {% endif %}
+                {% if clinician.soundcloud == null %}
+                {% else %}
+                {{ clinician.soundcloud }}
+                {% endif %}
                 {% if clinician.youtube ==null %}
                 {% else %}
                 <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="23px"></a>
