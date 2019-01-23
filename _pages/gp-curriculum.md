@@ -50,6 +50,10 @@ description: Share our Consultations from across the GP curriculum
                 {% else %}
                 <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="80%"></a>
                 {% endif %}
+                {% if clinician.soundcloud == null %}
+                {% else %}
+                {{ clinician.soundcloud }}
+                {% endif %}
                 {% if clinician.article == null %}
                 {% else %}
                 <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="80%"></a>
