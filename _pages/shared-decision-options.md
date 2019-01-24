@@ -49,6 +49,10 @@ description: Shared Decision options
                 {% else %}
                 <a href="{{ patients.audio }}" target="_blank"><img src="/img/itunes.png" width="80%"></a>
                 {% endif %}
+                {% if patients.soundcloud == null %}
+                {% else %}
+                {{ patients.soundcloud }}
+                {% endif %}
                 {% if patients.article == null %}
                 {% else %}
                 <a href="{{ patients.article }}" target="_blank"><img src="/img/note.png" width="80%"></a>
