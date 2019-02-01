@@ -1,7 +1,7 @@
 ---
 category: Osteoporosis, osteopaenia and bone health
 title: Calcium Calculator (Edinburgh)
-description: LOnline tool to help you to work out if you have enough calcium in your diet to keep your bones strong. If your calcium intake is low your doctor may recommend that you take calcium supplements.
+description: Online tool to help you to work out if you have enough calcium in your diet to keep your bones strong. If your calcium intake is low your doctor may recommend that you take calcium supplements.
 audio: 
 article: 
 www: http://www.cgem.ed.ac.uk/research/rheumatological/calcium-calculator/
