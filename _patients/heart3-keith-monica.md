@@ -1,6 +1,6 @@
 ---
 category: Preventing heart attacks angina and stroke
-title: Shared decision options audio - Dr Keith Birrell with insomniac Neil
+title: Shared decision options audio - Dr Keith Birrell talks to Monica who has high blood pressure
 description: Listen to Dr Keith Birrell guiding Monica who has high blood pressure to make informed decisions to reduce her future risk of heart attacks  and stroke.
 audio: /assets/audio/Monica - BP & Lifestyle - Options - MQ.mp3
 article: 
