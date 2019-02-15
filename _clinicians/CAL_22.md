@@ -1,0 +1,12 @@
+---
+area: Communication Skills
+category: 22 - Calgary Cambridge Workshop
+title: Agenda setting role play . Part 2 when to prioritise Malcolm Thomas
+description: Agenda setting role play . Part 2 when to prioritise Malcolm Thomas
+audio: /assets/audio/22- Calgary Cambridge Workshop - 22 Agenda setting role play . Part 2 when to prioritise Malcolm Thomas - MQ.mp3
+article: 
+www: 
+keywords: Calgary, Cambridge, Model
+youtube: 
+soundcloud: 
+---
