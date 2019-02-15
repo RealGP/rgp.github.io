@@ -1,5 +1,5 @@
 ---
-area: Calgary Cambridge Model
+area: Communication Skills
 category: 02 - Consultation Workshop
 title: Learning need - Iram
 description: Learning need - Iram

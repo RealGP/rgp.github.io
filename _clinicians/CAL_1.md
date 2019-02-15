@@ -1,5 +1,5 @@
 ---
-area: Calgary Cambridge Model
+area: Communication Skills
 category: 01 - Consultation Workshop
 title: Introducing the group to Malcolm Thomas
 description: Introducing the group to Malcolm Thomas
