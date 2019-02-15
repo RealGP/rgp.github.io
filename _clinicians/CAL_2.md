@@ -6,7 +6,7 @@ description: Learning need - Iram
 audio: /assets/audio/2 - Calgary Cambridge Workshop - 2 Learning need Iram - MQ.mp3
 article: 
 www: 
-keywords: 
+keywords: Calgary, Cambridge, Model
 youtube: 
 soundcloud: 
 ---
