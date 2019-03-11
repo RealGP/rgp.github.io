@@ -33,6 +33,7 @@ description: Calgary Cambridge Model
                 <th>Title</th>
                 <th>Description</th>
                 <th>Associated Files</th>
+                <th>Duration</th>
                 <th>Key Words</th>
             </tr>
         </thead>
