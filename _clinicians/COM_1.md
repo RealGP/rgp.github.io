@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 01
 title: Stress presenting as a physical symptom
 description: Consultation Workshop - 1 Erica consults with Dr Birrell about her neck pain
