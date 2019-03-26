@@ -24,7 +24,7 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms"><a href="{{ '/map-of-the-consultation' }}">
-                            <img src="/img/Large map.png"></a>
+                            <img src="/img/map_consultation2.jpg"></a>
                         </div>
                         <h2>Map of the Consultation Workshop</h2>
                     </div>
