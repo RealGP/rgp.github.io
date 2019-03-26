@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 35
 title: 35 Anxiety and social anxiety disorder
 description: 35 Anxiety and social anxiety disorder

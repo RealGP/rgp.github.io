@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 27
 title: 27 Constipation
 description: 27 Constipation

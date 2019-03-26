@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 06
 title: 6 Blood pressure
 description: 6 Blood pressure

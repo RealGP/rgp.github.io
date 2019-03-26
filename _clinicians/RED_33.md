@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 33
 title: 33 Gynaecomastia
 description: 33 Gynaecomastia

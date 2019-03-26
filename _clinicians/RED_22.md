@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 22
 title: 22 Sepsis
 description: 22 Sepsis

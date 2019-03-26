@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 39
 title: 39 Obsessive compulsive disorder
 description: 39 Obsessive compulsive disorder

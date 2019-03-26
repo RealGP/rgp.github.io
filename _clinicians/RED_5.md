@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 05
 title: 5 Thrombocytosis
 description: 5 Thrombocytosis

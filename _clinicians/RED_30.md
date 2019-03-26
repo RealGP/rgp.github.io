@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 30
 title: 30 Fatty liver disease and Sleep apnoea
 description: 30 Fatty liver disease and Sleep apnoea

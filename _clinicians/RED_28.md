@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 28
 title: 28 Acute diarrhoea in adults
 description: 28 Acute diarrhoea in adults

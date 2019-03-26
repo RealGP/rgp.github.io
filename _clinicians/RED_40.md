@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 40
 title: 40 Suicide and self harm
 description: 40 Suicide and self harm

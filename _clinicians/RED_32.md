@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 32
 title: 32 Erectile dysfunction
 description: 32 Erectile dysfunction

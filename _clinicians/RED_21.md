@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 21
 title: 21 Diabetes presentation
 description: 21 Diabetes presentation

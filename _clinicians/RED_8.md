@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 08
 title: 8 Bronchiolitis
 description: 8 Bronchiolitis

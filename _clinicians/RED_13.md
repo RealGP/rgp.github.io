@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 13
 title: 13 Telephone triage for serious infection in children
 description: 13 Telephone triage for serious infection in children

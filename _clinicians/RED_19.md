@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 19
 title: 19 Leg ulcers
 description: 19 Leg ulcers

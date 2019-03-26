@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 34
 title: 34 Lower urinary tract symptoms in men
 description: 34 Lower urinary tract symptoms in men

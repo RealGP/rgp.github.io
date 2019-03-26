@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 31
 title: 31 Prevention of dementia and frailty
 description: 31 Prevention of dementia and frailty
