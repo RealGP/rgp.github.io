@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 54
 title: 54 Ectopic pregnancy
 description: 54 Ectopic pregnancy

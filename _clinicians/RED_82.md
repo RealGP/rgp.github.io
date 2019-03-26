@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 82
 title: 82 Care of people who misuse drugs and alcohol
 description: 82 Care of people who misuse drugs and alcohol

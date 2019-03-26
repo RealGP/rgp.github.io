@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 72
 title: 72 Abnormal uterine bleeding
 description: 72 Abnormal uterine bleeding

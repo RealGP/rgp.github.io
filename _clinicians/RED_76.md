@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 76
 title: 76 Safety in the consultation. Asking key questions, providing targetted information and safety netting
 description: 76 Safety in the consultation. Asking key questions, providing targetted information and safety netting

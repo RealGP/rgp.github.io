@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 57
 title: 57 Chronic kidney disease
 description: 57 Chronic kidney disease

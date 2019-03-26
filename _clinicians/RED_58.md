@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 58
 title: 58 Microscopic haematuria
 description: 58 Microscopic haematuria

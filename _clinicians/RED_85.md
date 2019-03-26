@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 85
 title: 85 Linking weight and alcohol consumption
 description: 85 Linking weight and alcohol consumption

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 83
 title: 83 Harmful alcohol use
 description: 83 Harmful alcohol use

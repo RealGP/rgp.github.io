@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 62
 title: 62 Chronic cough including whooping cough
 description: 62 Chronic cough including whooping cough

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 65
 title: 65 Vaginal discharge
 description: 65 Vaginal discharge

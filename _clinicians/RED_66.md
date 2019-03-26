@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 66
 title: 66 Contraceptive failures (options for contraception)
 description: 66 Contraceptive failures (options for contraception)
