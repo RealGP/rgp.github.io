@@ -27,7 +27,7 @@ description: Communication skills learning
                           <a href="{{ '/map-of-the-consultation' }}"><img src="/img/people.png" alt="">
                         </div>
                         <h2>Map of the Consultation</h2>
-                        <!--<p>Access our patient resources</p>--></a>
+                        <p>Access our patient resources</p></a>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -36,7 +36,7 @@ description: Communication skills learning
                             <a href="{{ '/red-flags' }}"><img src="/img/clinician.png" alt="">
                         </div>
                         <h2>Red Flags</h2>
-                        <!--<p>Access our clinician resources</p>--></a>
+                        <p>Access our clinician resources</p></a>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -45,7 +45,7 @@ description: Communication skills learning
                           <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/disclaimer.png" alt="">
                         </div>
                         <h2>Calgary Cambridge Model</h2>
-                        <!--<p>Read our disclaimer</p>--></a>
+                        <p>Read our disclaimer</p></a>
                     </div>
                 </div>
             </div>
