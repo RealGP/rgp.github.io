@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 46
 title: 46 Transient loss of consciousness
 description: 46 Transient loss of consciousness

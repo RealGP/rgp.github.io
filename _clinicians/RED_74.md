@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 74
 title: 74 Post coital bleeding
 description: 74 Post coital bleeding

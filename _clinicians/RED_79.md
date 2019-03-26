@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 79
 title: 79 Acute urinary tract infections in women
 description: 79 Acute urinary tract infections in women

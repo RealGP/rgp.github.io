@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 52
 title: 52 Signposting your red flag questioning
 description: 52 Signposting your red flag questioning

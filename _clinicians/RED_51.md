@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 51
 title: 51 Unintentional weight loss
 description: 51 Unintentional weight loss

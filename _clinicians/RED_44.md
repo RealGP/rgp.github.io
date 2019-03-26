@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 44
 title: 44 Low back pain and sciatica
 description: 44 Low back pain and sciatica

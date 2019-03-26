@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 53
 title: 53 Gradual visual loss in adults
 description: 53 Gradual visual loss in adults

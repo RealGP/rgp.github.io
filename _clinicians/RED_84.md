@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 84
 title: 84 The link between harmful drinking, high blood pressure and cardiovascular risks
 description: 84 The link between harmful drinking, high blood pressure and cardiovascular risks

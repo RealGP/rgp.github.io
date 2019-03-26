@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 71
 title: 71 HRT (Hormone Replacement Therapy)
 description: 71 HRT (Hormone Replacement Therapy)

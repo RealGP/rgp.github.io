@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 75
 title: 75 Premature ovarian insufficiency
 description: 75 Premature ovarian insufficiency

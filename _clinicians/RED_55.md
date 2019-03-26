@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 55
 title: 55 Nausea and vomiting of pregnancy
 description: 55 Nausea and vomiting of pregnancy

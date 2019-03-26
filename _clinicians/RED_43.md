@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 43
 title: 43 Fibromyalgia
 description: 43 Fibromyalgia

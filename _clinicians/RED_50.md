@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 50
 title: 50 Dementia and agitation
 description: 50 Dementia and agitation

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 78
 title: 78 Urinary incontinence
 description: 78 Urinary incontinence

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 64
 title: 64 Combined pill and risks
 description: 64 Combined pill and risks

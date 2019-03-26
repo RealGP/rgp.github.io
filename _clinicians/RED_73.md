@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, red-flags
 category: Red Flag, Provide and safety net demonstration 73
 title: 73 PCOS (Polycystic Ovarian syndrome)
 description: 73 PCOS (Polycystic Ovarian syndrome)
