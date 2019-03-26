@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 17 - Calgary Cambridge Workshop
 title: Role play. Acknowledge and touch and go empathy. Malcolm Thomas
 description: Role play. Acknowledge and touch and go empathy. Malcolm Thomas

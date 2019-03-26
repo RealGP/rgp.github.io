@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 09 - Calgary Cambridge Workshop
 title: Preparation before the consultation. Malcolm Thomas
 description: Preparation before the consultation. Malcolm Thomas

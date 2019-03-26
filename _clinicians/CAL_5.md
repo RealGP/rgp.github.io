@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 05 - Calgary Cambridge Workshop
 title: Prem learning needs 
 description: Prem learning needs 

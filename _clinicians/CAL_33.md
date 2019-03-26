@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 33 - Calgary Cambridge Workshop
 title: Take away lessons Malcolm Thomas
 description: Take away lessons Malcolm Thomas

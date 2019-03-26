@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 07 - Calgary Cambridge Workshop
 title: Combined learning needs discussion
 description: Combined learning needs discussion

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 21 - Calgary Cambridge Workshop
 title: Agenda setting role play - part 1 Malcolm Thomas
 description: Agenda setting role play - part 1 Malcolm Thomas

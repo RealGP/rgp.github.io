@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 03 - Calgary Cambridge Workshop
 title: Tiru learning needs 
 description: Tiru learning needs 

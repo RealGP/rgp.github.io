@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 18 - Calgary Cambridge Workshop
 title: Hijacking a list. Malcolm Thomas
 description: Hijacking a list. Malcolm Thomas

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 24 - Calgary Cambridge Workshop
 title: Summing up agenda setting Malcolm Thomas
 description: Summing up agenda setting Malcolm Thomas

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 06 - Calgary Cambridge Workshop
 title: Learning need. Angry patient
 description: Learning need. Angry patient

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 29 - Calgary Cambridge Workshop
 title: Permission to give homework - role play. The start of a complex diagnosis or issue. Malcolm Thomas
 description: Permission to give homework - role play. The start of a complex diagnosis or issue. Malcolm Thomas

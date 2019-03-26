@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 11 - Calgary Cambridge Workshop
 title: A standard appointment is 10 minutes long. Your appointment is from 9.50 until 10
 description: A standard appointment is 10 minutes long. Your appointment is from 9.50 until 10

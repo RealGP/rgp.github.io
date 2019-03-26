@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 01 - Calgary Cambridge Workshop
 title: Introducing the group to Malcolm Thomas
 description: Introducing the group to Malcolm Thomas

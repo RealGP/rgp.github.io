@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 19 - Calgary Cambridge Workshop
 title: Role play. A list and 2 adults. Malcolm Thomas
 description: Role play. A list and 2 adults. Malcolm Thomas

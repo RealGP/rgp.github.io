@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 25 - Calgary Cambridge Workshop
 title: Prioritising registrars sitting the CSA Malcolm Thomas
 description: Prioritising registrars sitting the CSA Malcolm Thomas

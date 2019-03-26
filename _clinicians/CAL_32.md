@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 32 - Calgary Cambridge Workshop
 title: Agenda setting. Adults turn taking
 description: Agenda setting. Adults turn taking

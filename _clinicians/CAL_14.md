@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 14 - Calgary Cambridge Workshop
 title: Now then - screening the agenda. Lay referrals. Summarising the narrative. Malcolm Thomas 
 description: Now then - screening the agenda. Lay referrals. Summarising the narrative. Malcolm Thomas 

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 27 - Calgary Cambridge Workshop
 title: Role play. Elicit, provide, elicit. Teach back. Malcolm Thomas
 description: Role play. Elicit, provide, elicit. Teach back. Malcolm Thomas

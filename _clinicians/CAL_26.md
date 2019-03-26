@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 26 - Calgary Cambridge Workshop
 title: The explaining finger versus patient education. Elicit, provide, elicit. Teach back. Malcolm Thomas
 description: The explaining finger versus patient education. Elicit, provide, elicit. Teach back. Malcolm Thomas

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 16 - Calgary Cambridge Workshop
 title: Attending to our own needs 
 description: Attending to our own needs 

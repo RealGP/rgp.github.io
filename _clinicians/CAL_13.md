@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 13 - Calgary Cambridge Workshop
 title: Screening the patient's agenda. Malcolm Thomas
 description: Screening the patient's agenda. Malcolm Thomas

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 20 - Calgary Cambridge Workshop
 title: Memory testing. Malcolm Thomas
 description: Memory testing. Malcolm Thomas

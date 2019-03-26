@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 28 - Calgary Cambridge Workshop
 title: Jargon and technical language. Malcolm Thomas
 description: Jargon and technical language. Malcolm Thomas

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 10 - Calgary Cambridge Workshop
 title: Training your patients to be organised. Malcolm Thomas
 description: Training your patients to be organised. Malcolm Thomas

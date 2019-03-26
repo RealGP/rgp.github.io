@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, calgary-cambridge-model
 category: 30 - Calgary Cambridge Workshop
 title: Paediatric cases in the CSA exam. Malcolm Thomas
 description: Paediatric cases in the CSA exam. Malcolm Thomas
