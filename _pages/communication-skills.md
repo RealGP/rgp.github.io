@@ -24,7 +24,7 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
-                          <a href="{{ '/map-of-the-consultation' }}"><img src="/img/people.png" alt="">
+                          <a href="{{ '/map-of-the-consultation' }}"><img src="/img/people.png">
                         </div>
                         <h2>Map of the Consultation</h2>
                         <p>Access our patient resources</p></a>
@@ -33,7 +33,7 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <a href="{{ '/red-flags' }}"><img src="/img/clinician.png" alt="">
+                            <a href="{{ '/red-flags' }}"><img src="/img/clinician.png">
                         </div>
                         <h2>Red Flags</h2>
                         <p>Access our clinician resources</p></a>
@@ -42,7 +42,7 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                          <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/disclaimer.png" alt="">
+                          <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/disclaimer.png">
                         </div>
                         <h2>Calgary Cambridge Model</h2>
                         <p>Read our disclaimer</p></a>
