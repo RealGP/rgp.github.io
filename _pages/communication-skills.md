@@ -24,25 +24,25 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms"><a href="{{ '/map-of-the-consultation' }}">
-                            <img src="/img/people.png"></a>
+                            <img src="/img/Large map.png"></a>
                         </div>
-                        <h2>Map of the Consultation</h2>
+                        <h2>Map of the Consultation Workshop</h2>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <a href="{{ '/red-flags' }}"><img src="/img/clinician.png"></a>
+                            <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/Calgary.jpg"></a>
                         </div>
-                        <h2>Red Flags</h2>
+                        <h2>Calgary Cambridge Workshop</h2>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/disclaimer.png"></a>
+                        <a href="{{ '/red-flags' }}"><img src="/img/redflag.png"></a>
                         </div>
-                        <h2>Calgary Cambridge Model</h2>
+                        <h2>Red Flag Demonstration</h2>
                     </div>
                 </div>
             </div>
