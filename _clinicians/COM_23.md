@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 23
 title: Top tips for keeping to time in the consultation
 description: Consultation Workshop - 23 Top tips for keeping to time in the consultation

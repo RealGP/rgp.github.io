@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 04
 title: How organised are you
 description: Consultation Workshop - 4 How to colour in the puzzle

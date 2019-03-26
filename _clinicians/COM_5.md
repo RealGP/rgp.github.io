@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 05
 title: Lessons from doing the puzzle
 description: Consultation Workshop - 5 Lessons from doing the puzzle

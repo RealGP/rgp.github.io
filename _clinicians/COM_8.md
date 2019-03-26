@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 08
 title: The Uber signpost
 description: Consultation Workshop - 8 The Uber signpost

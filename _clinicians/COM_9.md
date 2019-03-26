@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 09
 title: The best consultation skills book A field guide to the difficult patient interview
 description: Consultation Workshop - 9 The best consultation skills book. A field guide to the difficult patient interview

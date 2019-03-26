@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 11
 title: Signposting the mental state examination
 description: Consultation Workshop - 11 Signposting the mental state examination

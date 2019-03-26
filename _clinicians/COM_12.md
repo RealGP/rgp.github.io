@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 12
 title: Spectrum of prompts exercise. Part 1 Making it easier for your patient to give information in a more timely way
 description: Consultation Workshop - 12 Spectrum of prompts exercise. Part 1 Making it easier for your patient to give information in a more timely way

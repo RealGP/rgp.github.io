@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 16
 title: The fear of missing something. Mapping uncertainty in medicine
 description: Consultation Workshop - 16 The fear of missing something. Mapping uncertainty in medicine

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 15
 title: Shut up exercise. Tiru then Iram
 description: Consultation Workshop - 15 Shut up exercise. Tiru then Iram

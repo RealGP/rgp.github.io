@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 17
 title: A time efficient way of covering the psychosocial and occupational history 
 description: Consultation Workshop - 17 A time efficient way of covering the psychosocial and occupational history

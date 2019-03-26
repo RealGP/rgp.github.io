@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 03
 title: Making the flexible 10 point map of the consultation automatic
 description: Consultation Workshop - 3 Making the flexible 10 point map of the consultation automatic

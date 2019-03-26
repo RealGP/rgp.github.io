@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 22
 title: Specific safety netting. Patient.info
 description: Consultation Workshop - 22 Specific safety netting Patient.info

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 24
 title: What we covered today and learners take home points
 description: Consultation Workshop - 24 What we covered today and learners take home points

@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 06
 title: Learners' agendas relating to the Map of the Consultation
 description: Consultation Workshop - 6 Learners' agendas relating to the Map of the Consultation

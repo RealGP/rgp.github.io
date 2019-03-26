@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 18
 title: The value of summarising and signposting
 description: Consultation Workshop - 18 The value of summarising and signposting

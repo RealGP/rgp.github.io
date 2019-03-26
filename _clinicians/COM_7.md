@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 07
 title: How the session will work
 description: Consultation Workshop - 7 How the session will work

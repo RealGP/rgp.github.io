@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Communication Skills, map-of-the-consultation
 category: Map of the consultation workshop 19
 title: Structuring a review for giving results (They are not completely normal)
 description: Consultation Workshop - 19 Sharing results 1 Structuring a review for giving results (They are not completely normal)
