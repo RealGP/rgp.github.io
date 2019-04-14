@@ -5,6 +5,6 @@ title: Peripheral vascular disease
 description: Ethel talks to Dr Birrell
 audio: /assets/audio/Doctor - Ethel - Peripheral Vascular Disease - MQ.mp3
 article: 
-www: 
+www: realgeneralpractice.co.uk
 keywords: Peripheral vascular disease
 --- 
