@@ -8,7 +8,7 @@ article:
 www: realgeneralpractice.co.uk
 keywords: Peripheral vascular disease
 youtube:
-patient-script: test
+patient-script: 
 doctors-note:
 findings:
 lejog:
