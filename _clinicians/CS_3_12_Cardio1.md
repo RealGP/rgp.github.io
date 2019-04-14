@@ -7,4 +7,11 @@ audio: /assets/audio/Doctor - Ethel - Peripheral Vascular Disease - MQ.mp3
 article: 
 www: realgeneralpractice.co.uk
 keywords: Peripheral vascular disease
+youtube:
+patient-script: test
+doctors-note:
+findings:
+lejog:
+doctors-word:
+transcription:
 --- 
