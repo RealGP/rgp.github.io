@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Spectrum of prompts, Malcolm Thomas
 youtube: 
+duration: 14m 41s
 --- 

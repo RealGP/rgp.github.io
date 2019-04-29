@@ -8,4 +8,5 @@ article: /assets/publication/Map of consultation workshop introduction.pdf
 www: 
 keywords: 
 youtube: 
+duration:
 --- 

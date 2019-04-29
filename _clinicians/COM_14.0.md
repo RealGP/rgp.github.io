@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Silence, CSA, Malcolm Thomas
 youtube: 
+duration: 2m 32s
 --- 

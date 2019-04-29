@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, Sharing results, checking, understanding
 youtube: 
+duration: 12m 15s
 --- 

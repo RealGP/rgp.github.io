@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, mental state examination
 youtube: 
+duration: 8m 30s
 --- 

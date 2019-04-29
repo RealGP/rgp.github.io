@@ -9,4 +9,5 @@ map:
 ljog:  /assets/publication/LEJOG.pdf
 keywords: LEJOG, map of the consultation, Lands End John O’Groats, Keith Birrell
 youtube: 
+duration: 7m 11s
 --- 

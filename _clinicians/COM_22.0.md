@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, safety netting
 youtube: 
+duration: 3m 19s
 --- 

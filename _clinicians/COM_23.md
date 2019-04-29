@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, keeping to time, consultation
 youtube: 
+duration: 4m 39s
 --- 

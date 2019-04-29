@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: spectrum of prompts, echoes, Colombo technique, Malcolm Thomas
 youtube: 
+duration: 15m 52s
 --- 

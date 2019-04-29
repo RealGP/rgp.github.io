@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, giving results, structure, review appointment, almost, normal, results
 youtube: 
+duration: 8m 59s
 --- 

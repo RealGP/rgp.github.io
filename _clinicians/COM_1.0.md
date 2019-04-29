@@ -8,4 +8,5 @@ article:
 www: 
 keywords: Stress, neck pain, conversion, functional, somatisation
 youtube: https://youtu.be/eRHb5quBTOA
+duration: 10m 47s
 --- 

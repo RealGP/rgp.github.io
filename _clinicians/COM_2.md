@@ -8,4 +8,5 @@ article:
 www: 
 keywords: Being, organised
 youtube: 
+duration: 5m 14s
 --- 

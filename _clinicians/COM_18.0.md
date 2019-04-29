@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, summarising, signposting
 youtube: 
+duration: 2m 26s
 --- 

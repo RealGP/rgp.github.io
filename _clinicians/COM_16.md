@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: fear of missing, mapping, uncertainty, Malcolm Thomas
 youtube: 
+duration: 5m 45s
 --- 
