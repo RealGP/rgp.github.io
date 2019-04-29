@@ -7,6 +7,6 @@ audio: /assets/audio/Map of the Consultation Workshop - 6 Learners' agendas rela
 article: 
 map:
 ljog:  /assets/publication/LEJOG.pdf
-keywords: LEJOG, map of the consultation, Lands End John O’Groats, Keith Birrell
+keywords: LEJOG, map of the consultation, Lands End John O’Groats, Keith Birrell, learners, needs
 youtube: 
 --- 
