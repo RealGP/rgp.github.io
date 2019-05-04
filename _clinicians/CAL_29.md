@@ -6,7 +6,7 @@ description: Permission to give homework - role play. The start of a complex dia
 audio: /assets/audio/29 - Calgary Cambridge Workshop - 29 Permission to give homework - role play. The start of a complex diagnosis or issue. Malcolm Thomas - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, permission, homework
 youtube: 
 soundcloud: 
 ---

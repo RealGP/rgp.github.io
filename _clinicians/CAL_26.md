@@ -6,7 +6,7 @@ description: The explaining finger versus patient education. Elicit, provide, el
 audio: /assets/audio/26 - Calgary Cambridge Workshop - 26 The explaining finger versus patient education. Elicit, provide, elicit. Teach back. Malcolm Thomas - MQ.mp3
 article: /assets/publication/Explanations.pdf
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, elicit, provide
 youtube: 
 soundcloud: 
 ---

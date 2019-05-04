@@ -9,4 +9,5 @@ www:
 keywords: Calgary, Cambridge, Model
 youtube: 
 soundcloud: 
+duration: 6m 03s
 ---

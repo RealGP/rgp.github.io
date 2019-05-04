@@ -6,7 +6,7 @@ description: Attending to our own needs
 audio: /assets/audio/16 - Calgary Cambridge Workshop - 16 Attending to our own needs. Malcolm Thomas - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, attend, own, needs
 youtube: 
 soundcloud: 
 ---

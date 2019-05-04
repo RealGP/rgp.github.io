@@ -6,7 +6,7 @@ description: Summing up agenda setting Malcolm Thomas
 audio: /assets/audio/24 - Calgary Cambridge Workshop - 24 Summing up agenda setting Malcolm Thomas - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, agenda, setting
 youtube: 
 soundcloud: 
 ---

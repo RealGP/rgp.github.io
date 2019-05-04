@@ -6,7 +6,7 @@ description: Agenda setting role play part 3 Malcolm Thomas
 audio: /assets/audio/23- Calgary Cambridge Workshop - 23 Agenda setting role play part 3 Malcolm Thomas - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, agenda, setting
 youtube: 
 soundcloud: 
 ---
