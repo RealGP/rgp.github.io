@@ -6,7 +6,8 @@ description: Malcolm Thomas sums up the agenda
 audio: /assets/audio/8 - Calgary Cambridge Workshop - 8 Malcolm Thomas sums up the agenda - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, agenda, workshop
 youtube: 
 soundcloud: 
+duration: 
 ---
