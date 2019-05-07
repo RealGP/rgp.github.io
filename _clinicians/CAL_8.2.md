@@ -1,6 +1,6 @@
 ---
 area: Communication Skills, calgary-cambridge-model
-category: 08 - Calgary Cambridge Workshop
+category: 08b - Calgary Cambridge Workshop
 title: Setting the scene before the patient is seen
 description: Setting the scene before the patient is seen
 audio: /assets/audio/8b - Calgary Cambridge Workshop - Setting the scene before the patient is seen - MQ.mp3
