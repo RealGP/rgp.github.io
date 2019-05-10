@@ -1,8 +1,8 @@
 ---
 permalink: "/elicit/"
 layout: communication-skills
-title:  "Elicit, Provide, Elicit"
-description: Elicit, Provide, Elicit
+title:  "Elicit-Provide-Elicit"
+description: Elicit-Provide-Elicit
 ---
 
 <section id="action" class="responsive">
