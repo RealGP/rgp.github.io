@@ -1,7 +1,7 @@
 ---
 permalink: "/elicit/"
 layout: communication-skills
-title:  "elicit"
+title:  "Elicit, Provide, Elicit"
 description: Elicit, Provide, Elicit
 ---
 
