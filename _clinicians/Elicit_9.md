@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 9
+title: Atrial fibrillation, using the sparctool
+description: Elicit Provide Elicit - 9 Atrial fibrillation, using the sparctool - Arnold
+audio: /assets/audio/Elicit Provide Elicit - 9 Atrial fibrillation, using the sparctool - Arnold - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Atrial, fibrillation, sparctool, AF, risk, stroke, risk, bleeding
 youtube: 
-duration: 56s
+duration: 3m 15s
 --- 
