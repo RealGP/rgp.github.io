@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
+category: Elicit Provide Elicit - 25
+title: Epilepsy
 description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+audio: /assets/audio/Elicit Provide Elicit - 25 Epilepsy - Oliver - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Epilepsy, convulsion
 youtube: 
-duration: 56s
+duration: 1m 53s
 --- 
