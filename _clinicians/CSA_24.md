@@ -8,5 +8,5 @@ article:
 www: 
 keywords: Examining, CSA, clinical, skills, assessment,
 youtube: 
-duration: 12m 33s
+duration: 45s
 --- 
