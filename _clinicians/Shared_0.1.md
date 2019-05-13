@@ -1,5 +1,5 @@
 ---
-area: Communication Skills, Emotional-health-workshop
+area: Communication Skills, Shared-Decion-Making-Workshop
 category: Shared decisions Workshop  - 0.1
 title: Is this workshop for you?
 description: Who is this workshop aimed at and what will you learn?
