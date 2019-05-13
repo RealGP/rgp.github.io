@@ -21,7 +21,7 @@ description: Communication skills learning
 <section id="services">
         <div class="container">
             <div class="row">
-             <div class="col-md-3">
+             
         
 <p> When using this section we suggest you follow the order listed below:  
 <ul>
@@ -32,7 +32,6 @@ description: Communication skills learning
     <li>7. Dip in to our How to pass the Clinical Skills Assessment discussion if it’s relevant to you.</li>
 </ul>
  </p>
-        </div>
         </div>
 </div>
 </section>
