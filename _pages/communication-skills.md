@@ -74,7 +74,7 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/emotional' }}"><img src="/img/western.png"></a>
+                        <a href="{{ '/emotional' }}"><img src="/img/Western.png"></a>
                         </div>
                         <h2>Emotional Health Workshop</h2>
                     </div>
