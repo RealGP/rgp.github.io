@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, How-to-pass-the-CSA
 category: How to Pass CSA - 25
-title: CSA day routine
-description: CSA day routine. University challenge
-audio: /assets/audio/25 CSA Exam day routine. University challenge 18.2.18.m4a
-article: 
+title: Examining in the CSA
+description: Examining in the CSA.pdf
+audio: /assets/audio/24 How to examine patients in the CSA - Chris Marr.m4a
+article: /assets/publication/Examining in the CSA.pdf
 www: 
-keywords: university, challenge
+keywords: Examining, CSA, clinical, skills, assessment,
 youtube: 
-duration: 25m 17s
+duration: 12m 33s
 --- 
