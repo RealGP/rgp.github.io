@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 48
+title: Herpes
+description: Elicit Provide Elicit - 48 Herpes - Dan
+audio: /assets/audio/Elicit Provide Elicit - 48 Herpes - Dan - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Herpes
 youtube: 
-duration: 56s
+duration: 1m 30s
 --- 
