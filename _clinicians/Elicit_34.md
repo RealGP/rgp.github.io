@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 34
+title: Pregnancy sickness
+description: Elicit Provide Elicit - 34 Pregnancy sickness
+audio: /assets/audio/Elicit Provide Elicit - 34 Pregnancy sickness - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Pregnancy, sickness
 youtube: 
-duration: 56s
+duration: 1m 40s
 --- 

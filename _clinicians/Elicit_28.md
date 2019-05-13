@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
+category: Elicit Provide Elicit - 28
+title: Constipation
 description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+audio: /assets/audio/Elicit Provide Elicit - 28 Constipation - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Constipation
 youtube: 
-duration: 56s
+duration: 1m 37s
 --- 
