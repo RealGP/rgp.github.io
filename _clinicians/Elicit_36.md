@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 36
+title: Termination of pregnancy
+description: Elicit Provide Elicit - 36 Termination of pregnancy - Jade
+audio: /assets/audio/Elicit Provide Elicit - 36 Termination of pregnancy - Jade - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Termination, pregnancy
 youtube: 
-duration: 56s
+duration: 1m 19s
 --- 

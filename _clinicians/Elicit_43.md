@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 43
+title: Erectile dysfunction
+description: Elicit Provide Elicit - 43 Erectile dysfunction - Andrew 2
+audio: /assets/audio/Elicit Provide Elicit - 43 Erectile dysfunction - Andrew 2 - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Erectile, dysfunction
 youtube: 
-duration: 56s
+duration: 3m 48s
 --- 
