@@ -40,9 +40,41 @@ description: Communication skills learning
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <a href="{{ '/shared' }}"><img src="/img/fairground.jpg"></a>
+                        </div>
+                        <h2>Shared Decision Making Workshop</h2>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <div class="single-service">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
                         <a href="{{ '/red-flags' }}"><img src="/img/redflag.png"></a>
                         </div>
                         <h2>Red Flag Demonstration</h2>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <div class="single-service">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <a href="{{ '/emotional' }}"><img src="/img/people.jpg"></a>
+                        </div>
+                        <h2>Emotional Health Workshop</h2>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <div class="single-service">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <a href="{{ '/Elicit' }}"><img src="/img/people.jpg"></a>
+                        </div>
+                        <h2>Elicit, Provide, Elicit Deomonstration</h2>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <div class="single-service">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <a href="{{ '/CSA' }}"><img src="/img/headmaster.jpg"></a>
+                        </div>
+                        <h2>How to pass the CSA</h2>
                     </div>
                 </div>
             </div>
