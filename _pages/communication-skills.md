@@ -84,7 +84,7 @@ description: Communication skills learning
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
                         <a href="{{ '/elicit' }}"><img src="/img/people.jpg"></a>
                         </div>
-                        <h2>Elicit, Provide, Elicit Deomonstration</h2>
+                        <h2>Elicit, Provide, Elicit Demonstration</h2>
                     </div>
                 </div>
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
