@@ -1,8 +1,8 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit - 2
+category: Elicit Provide Elicit - 02
 title: Type 2 Diabetes
-description: Elicit Provide Elicit - 2 Diabetes - Mark
+description: Elicit Provide Elicit - 02 Diabetes - Mark
 audio: /assets/audio/Elicit Provide Elicit - 2 Diabetes - Mark - MQ.mp3
 article: 
 www: 
