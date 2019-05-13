@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 52
+title: Morphine side effects
+description: Elicit Provide Elicit - 52 Morphine side effects - Arthur
+audio: /assets/audio/Elicit Provide Elicit - 52 Morphine side effects - Arthur - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: Morphine, side, effects
 youtube: 
-duration: 56s
+duration: 3m 04s
 --- 

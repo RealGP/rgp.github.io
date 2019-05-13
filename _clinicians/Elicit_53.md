@@ -1,12 +1,12 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 0.1
-title: Elicit Provide Elicit demonstration - Introduction
-description: Elicit Provide Elicit demonstration - Introduction
-audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
+category: Elicit Provide Elicit - 53
+title: End of life discussion
+description: Elicit Provide Elicit - 53 End of life discussion - Margaret
+audio: /assets/audio/Elicit Provide Elicit - 53 End of life discussion - Margaret - MQ.mp3
 article: 
 www: 
-keywords: demonstration, introduction
+keywords: End, life, discussion
 youtube: 
-duration: 56s
+duration: 7m 34s
 --- 
