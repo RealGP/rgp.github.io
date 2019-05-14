@@ -1,6 +1,6 @@
 ---
 area: Communication Skills, Elicit-Provide-Elicit
-category: Elicit Provide Elicit demonstration  - 00
+category: Elicit Provide Elicit - 00
 title: Elicit Provide Elicit demonstration - Introduction
 description: Elicit Provide Elicit demonstration - Introduction
 audio: /assets/audio/Elicit Provide Elicit demonstration - Introduction - MQ.mp3
