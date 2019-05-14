@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 02
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 02
 title: 2 - Dave Tomson introduces himself 
 description: 2 Dave Tomson introduces himself
 audio: /assets/audio/Shared Decisions - 2 Dave Tomson introduces hmself - MQ.mp3

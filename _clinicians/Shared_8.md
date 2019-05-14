@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 08
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 08
 title: 8 The model. Choice, Options, Decision
 description: 8 The model. Choice, Options, Decision
 audio: /assets/audio/Shared Decisions - 8 The model. Choice, Options. Decision. Dave Tomson - MQ.mp3

@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 15
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 15
 title: 15 A patient centred approach to fibromyalgia
 description: 15 A patient centred approach to fibromyalgia
 audio: /assets/audio/Shared Decisions - 15 A patient centred approach to fibromyalgia. Dave Thompson - MQ.mp3

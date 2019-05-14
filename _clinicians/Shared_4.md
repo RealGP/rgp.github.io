@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 04
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 04
 title: 4 Dave Best Decisions Dave Tomson
 description: 4 Dave Best Decisions Dave Tomson
 audio: /assets/audio/Shared Decisions - 4 _Best Decisions Dave Tomson - MQ.mp3

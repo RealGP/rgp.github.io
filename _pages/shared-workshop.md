@@ -1,8 +1,8 @@
 ---
 permalink: "/shared/"
 layout: communication-skills
-title:  "Shared-Decion-Making-Workshop"
-description: Shared-Decion-Making-Workshop
+title:  "Shared-Decision-Making-Workshop"
+description: Shared-Decision-Making-Workshop
 ---
 
 <section id="action" class="responsive">

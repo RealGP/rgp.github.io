@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 26
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 26
 title: 26 Being familiar with the tools that you use
 description: 26 Being familiar with the tools that you use
 audio: /assets/audio/Shared Decisions - 26 Being familiar with the tools that you use. Dave Tomson - MQ.mp3

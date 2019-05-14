@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 22
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 22
 title: 22 Introducing an absolute CVD risk calculator as a tool for sharing decisions
 description: 22 Introducing an absolute CVD risk calculator as a tool for sharing decisions
 audio: /assets/audio/Shared Decisions - 22 Introducing an absolute CVD risk calculator as a tool for sharing decisions. Dave Tomson - MQ.mp3

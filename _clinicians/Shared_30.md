@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 30
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 30
 title: 30 Appraisal ideas for involving patients in their own decisions
 description: 30 Appraisal ideas for involving patients in their own decisions
 audio: /assets/audio/Shared Decisions - 30 Appraisal ideas for involving patients in their own decisions. Dave Tomson - MQ.mp3

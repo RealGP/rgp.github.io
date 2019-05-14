@@ -1,6 +1,6 @@
 ---
-area: Communication Skills, Shared-Decion-Making-Workshop
-category: Shared decisions Workshop  - 06
+area: Communication Skills, Shared-Decision-Making-Workshop
+category: Shared Decisions Workshop - 06
 title: 6 - Decision support
 description: 6 - Decision support
 audio: /assets/audio/Shared Decisions - 6 Decision support - Dave Tomson - MQ.mp3
