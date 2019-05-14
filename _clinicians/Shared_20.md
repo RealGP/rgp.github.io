@@ -8,5 +8,5 @@ article:
 www: 
 keywords: diabetes, agenda
 youtube: 
-duration: 2m 21s
+duration: 1m 53s
 --- 
