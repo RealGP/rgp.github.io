@@ -8,5 +8,5 @@ article:
 www: 
 keywords: stress
 youtube: 
-duration: 14m 17s
+duration: 14m 10s
 --- 

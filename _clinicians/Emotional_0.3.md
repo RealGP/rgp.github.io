@@ -8,5 +8,5 @@ article:
 www: 
 keywords: introduction
 youtube: 
-duration: 1m 13s
+duration: 
 --- 

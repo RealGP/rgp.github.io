@@ -8,5 +8,5 @@ article:
 www: 
 keywords: what, will, you, learn
 youtube: 
-duration: 2m 05s
+duration: 
 --- 
