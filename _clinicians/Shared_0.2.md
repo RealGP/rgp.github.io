@@ -1,0 +1,12 @@
+---
+area: Communication Skills, Shared-Decion-Making-Workshop
+category: Shared decisions Workshop  - 0.2
+title: Feedback
+description: Feedback from participants
+audio: /assets/audio/00b Feedback for Shared decision making workshop.m4a
+article: 
+www: 
+keywords: feedback
+youtube: 
+duration: 48s
+--- 
