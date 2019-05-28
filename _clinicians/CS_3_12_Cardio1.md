@@ -8,10 +8,10 @@ article:
 www: realgeneralpractice.co.uk
 keywords: Peripheral vascular disease
 youtube:
-patient-script: 
-doctors-note:
-findings:
-lejog:
-doctors-word:
-transcription:
+patient-script: /assets/publication/Ethel - Patient.pdf
+doctors-note: /assets/publication/Ethel - Doctor.pdf
+findings: /assets/publication/Ethel - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Ethel - mapping the doctor's words.pdf
+transcription: /assets/publication/Ethel - transcription.pdf
 --- 

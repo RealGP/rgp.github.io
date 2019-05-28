@@ -10,7 +10,7 @@ keywords: mole
 youtube:
 patient-script: /assets/publication/Joe - Patient.pdf
 doctors-note: /assets/publication/Joe - Doctor.pdf
-findings: /assets/publication/Joe - examination findings.pdf
+findings: /assets/publication/Joe - examination findings .pdf
 lejog: /assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/Joe - mapping the doctor's words.pdf
 transcription: /assets/publication/Joe - transcription.pdf
