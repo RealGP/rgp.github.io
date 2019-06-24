@@ -4,7 +4,7 @@ category: Emotional Health Workshop  - 07
 title: 7 Touch and go empathy. When should we refer?_ Dave Tomson
 description: 7 Touch and go empathy. When should we refer?_ Dave Tomson
 audio: /assets/audio/07 - Emotional Health Workshop - 7 Touch and go empathy. When should we refer_ Dave Tomson - MQ.mp3
-article: 
+article: /assets/publication/Touch and Go empathy.pdf
 www: 
 keywords: Touch and go empathy, refer, Dave Tomson
 youtube: 

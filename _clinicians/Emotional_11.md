@@ -4,7 +4,7 @@ category: Emotional Health Workshop  - 11
 title: 11 Talking about suicidality
 description: 11 Talking about suicidality Dave Tomson 
 audio: /assets/audio/11 - Emotional Health Workshop - 11 Talking about suicidality Dave Tomson - MQ.mp3
-www: 
+www: /assets/publication/Assessing suicidality.pdf
 keywords: suicidality, suicide, Dave Tomson 
 youtube: 
 duration: 11m 36s

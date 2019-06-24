@@ -1,11 +1,11 @@
 ---
 area: Communication Skills, Emotional-health-workshop
-category: Emotional Health Workshop  - 14
-title: 14 movingupstream.org.uk and the Suicidality assessment tool
-description: 14 movingupstream.org.uk and the Suicidality assessment tool Dave Tomson
-audio: /assets/audio/14 - Emotional Health Workshop - 14 Movingupstream.org.uk and the Suicidality assessment tool Dave Tomson - MQ.mp3
+category: Emotional Health Workshop  - 14b
+title: 14b Persistent physical symptoms introduction
+description: 14b Persistent physical symptoms introduction Emotional health workshop
+audio: /assets/audio/14b - Emotional Health Workshop - 14b Persistent physical symptoms introduction Emotional health workshop links 2 MQ.mp3
+article: 
 www: 
-keywords: movingupstream.org.uk, Suicidality, assessment, tool, Dave Tomson
-youtube: 
-duration: 3m 03s
+keywords: Persistent, physical, symptoms, introduction
+duration: 13s
 --- 
