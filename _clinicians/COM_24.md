@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas,
 youtube: 
+duration: 4m 13s
 --- 

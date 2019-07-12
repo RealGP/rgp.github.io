@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: consultation skills, book, field guide, difficult, patient, Malcolm Thomas
 youtube: 
+duration: 1m 11s
 --- 

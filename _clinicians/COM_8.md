@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm, Thomas, uber, signpost
 youtube: 
+duration: 4m 39s
 --- 

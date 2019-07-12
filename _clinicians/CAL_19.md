@@ -3,10 +3,10 @@ area: Communication Skills, calgary-cambridge-model
 category: 19 - Calgary Cambridge Workshop
 title: Role play. A list and 2 adults. Malcolm Thomas
 description: Role play. A list and 2 adults. Malcolm Thomas
-audio: /assets/audio/19 - Calgary Cambridge Workshop - 19 Role play. A list and 2 adults. Malcolm Thomas - MQ.mp3
+audio: /assets/audio/19 - Calgary Cambridge Workshop - Role play. A list and 2 adults. Malcolm Thomas - MQ.mp3
 article: 
 www: 
-keywords: Calgary, Cambridge, Model
+keywords: Calgary, Cambridge, Model, list, 2, adults
 youtube: 
 soundcloud: 
 ---

@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Malcolm Thomas, giving results, structure, review appointment, abnormal results
 youtube: 
+duration: 20m 24s
 --- 

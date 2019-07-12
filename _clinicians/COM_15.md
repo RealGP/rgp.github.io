@@ -9,4 +9,5 @@ map:
 ljog:  
 keywords: Shut up, exercise, Malcolm Thomas
 youtube: 
+duration: 21m 21s
 --- 
