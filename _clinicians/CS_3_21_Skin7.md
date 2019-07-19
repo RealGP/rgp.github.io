@@ -1,4 +1,4 @@
-﻿---
+---
 area: Clinical Skills
 category: 3.21 Care of People with Skin Problems
 title: Lichen sclerosus et atrophicus
