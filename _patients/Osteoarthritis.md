@@ -1,5 +1,5 @@
 ---
-category: Osteoarthritis, osteopaenia and bone health
+category: Osteoarthritis, options for pain relief
 title: Options for osteoarthritis – decision aid and handout
 description: What are the benefits and risks of each treatment for osteoarthritis?
 audio: 
