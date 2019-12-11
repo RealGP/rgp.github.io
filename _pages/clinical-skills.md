@@ -56,7 +56,7 @@ description: Real role play scenarios for your clinical skills assessment study 
             <tr>
                 <!--category-->
                 <td style="text-align:left; vertical-align:middle">
-                <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
+                {{ clinician.category }}
                 </td>
                 <!--title-->
                 <td><p>{{ clinician.title }}</p></td>

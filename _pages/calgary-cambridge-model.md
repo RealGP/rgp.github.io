@@ -42,7 +42,7 @@ description: Calgary Cambridge Model
         {% if clinician.area contains page.title %}
      <tr>
                 <td style="text-align:left; vertical-align:middle">
-                <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
+                {{ clinician.category }}
                 </td>
                 <td><p>{{ clinician.title }}</p></td>
                 <td><p>{{ clinician.description }}</p></td>

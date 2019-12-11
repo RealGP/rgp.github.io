@@ -50,7 +50,7 @@ title:  "Patients"
         {% for patients in site.patients %}
             <tr>
                 <td style="text-align:center; vertical-align:middle">
-                <a href="#" data-toggle="tooltip" title="{{ patients.category-desc }}">{{ patients.category }}</a>
+               {{ patients.category }}
                 </td>
                 <td><p>{{ patients.title }}</p></td>
                 <td><p>{{ patients.description }}</p></td>
