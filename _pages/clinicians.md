@@ -129,10 +129,10 @@ title:  "Clinicians"
                 <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                       <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms" height="200px">
-                        <a href="{{ '/shared-decision-options' }}"><img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone" height="100%"></a>
+                        <a href="{{ '/shared-decision-options' }}"><img src="/img/desatdirection1.jpg" title="Swings and roundabouts" height="100%"></a>
                         </div>
                         <h2>Shared decision options</h2>
-                        <p>Swings and roundabouts, no management option suits everyone</p>
+                        <p>Option audios and option tables, guide patients to choose their best option with clinician support</p>
                     </div>
                 </div>
                 <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
