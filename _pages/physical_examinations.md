@@ -1,6 +1,6 @@
 ---
 permalink: "/physical/"
-layout: communication-skills
+layout: default
 title:  "Physical Examinations for GPs"
 description: Videos of physical examinations ideal for GPs and the CSA
 ---
