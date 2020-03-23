@@ -147,7 +147,7 @@ title:  "Clinicians"
                         <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms" height="200px">
-                          <a href="{{ '/physical' }}"><img src="/img/physicalsml.jpg" title="Physical examinations for GP's" height="100%"></a>
+                          <a href="{{ '/physical' }}"><img src="/img/Physicalsml.jpg" title="Physical examinations for GP's" height="100%"></a>
                         </div>
                         <h2>Physical examinations for GP's</h2>
                         <p>Videos of physical examinations ideal for GP's and the CSA</p>
