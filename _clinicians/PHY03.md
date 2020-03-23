@@ -2,7 +2,7 @@
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
 title: Neck pain
-description: Watch Dr Fra-ser Birrell demonstrate how to examine the arthritic neck
+description: Watch Dr Fraser Birrell demonstrate how to examine the arthritic neck
 audio: 
 article: 
 www: 
