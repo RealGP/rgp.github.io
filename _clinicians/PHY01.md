@@ -1,7 +1,7 @@
 ---
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
-title: Introduction to Physical examina-tions in GP
+title: Introduction to Physical examinations in GP
 description: Watch Dr Keith Birrell introduce the concept of brief physical examinations for GPs this video series 
 audio: 
 article: 
