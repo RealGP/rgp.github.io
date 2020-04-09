@@ -49,7 +49,7 @@ description: Videos of physical examinations ideal for GPs and the CSA
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.audio == null %}
                 {% else %}
-                <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="23px"></a>
+                <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="50px"></a>
                 {% endif %}
                 {% if clinician.soundcloud == null %}
                 {% else %}
@@ -57,19 +57,19 @@ description: Videos of physical examinations ideal for GPs and the CSA
                 {% endif %}
                 {% if clinician.article == null %}
                 {% else %}
-                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="50px"></a>
                 {% endif %}
                 {% if clinician.map == null %}
                 {% else %}
-                <a href="{{ clinician.map }}" target="_blank"><img src="/img/map.png" width="23px"></a>
+                <a href="{{ clinician.map }}" target="_blank"><img src="/img/map.png" width="50px"></a>
                 {% endif %} 
                 {% if clinician.ljog ==null %}
                 {% else %}
-                <a href="{{ clinician.ljog }}" target="_blank"><img src="/img/LJOG.png" width="23px"></a>
+                <a href="{{ clinician.ljog }}" target="_blank"><img src="/img/LJOG.png" width="50px"></a>
                 {% endif %}
                  {% if clinician.youtube ==null %}
                 {% else %}
-                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="23px"></a>
+                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="50px"></a>
                 {% endif %}
                 </td>
                 <td>{{ clinician.duration }}</td>
