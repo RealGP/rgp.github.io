@@ -1,13 +1,13 @@
 ---
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
-title: Neck pain
-description: Watch Dr Fraser Birrell demonstrate how to examine the arthritic neck
+title: Tennis and golfer’s elbow 
+description: Watch Dr Fra-ser Birrell demonstrate how to examine the painful elbow
 audio: 
 article: 
 www: 
-keywords: Painful neck, neck arthritis, physical, examinations, GP, General practice, Fraser Birrell, Keith Birrell, Richard Shelley
-youtube: https://vimeo.com/399202730
+keywords: Painful elbow, golfer’s elbow, tennis elbow, physical, examinations, GP, General practice, Fraser Birrell, Keith Birrell, Richard Shelley
+youtube: https://vimeo.com/401288225
 soundcloud: 
-duration: 10m 31s
+duration: 7m 48s
 ---
