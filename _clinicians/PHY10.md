@@ -2,7 +2,7 @@
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
 title: Fibromyalgia
-description: Watch Dr Fra-ser Birrell demonstrate how to examine a patient with suspected fi-bromyalgia
+description: Watch Dr Fraser Birrell demonstrate how to examine a patient with suspected fibromyalgia
 audio: 
 article: 
 www: 
