@@ -1,13 +1,13 @@
 ---
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
-title: Neck pain
-description: Watch Dr Fraser Birrell demonstrate how to examine the arthritic neck
+title: Plantar fasciit-is
+description: Watch Dr Fraser Birrell demonstrate how to examine a patient with suspected plantar fasciitis
 audio: 
 article: 
 www: 
-keywords: Painful neck, neck arthritis, physical, examinations, GP, General practice, Fraser Birrell, Keith Birrell, Richard Shelley
-youtube: https://vimeo.com/399202730
+keywords: Plantar fasciitis, physical, examina-tions, GP, General practice, Fraser Birrell, Keith Birrell, Richard Shelley, arch of foot
+youtube: https://vimeo.com/401288225
 soundcloud: 
-duration: 10m 31s
+duration: 4m 10s
 ---
