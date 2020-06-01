@@ -2,7 +2,7 @@
 area: Physical Examinations for GPs
 category: Physical examinations for GPs
 title: Joint Injections in arthritis and weather changes
-description: Watch Dr Fra-ser Birrell talk about the pos-sible benefits of joint injec-tions and about how the weather might affect your arthritis symptoms
+description: Watch Dr Fraser Birrell talk about the pos-sible benefits of joint injections and about how the weather might affect your arthritis symptoms
 audio: 
 article: 
 www: 
