@@ -99,7 +99,7 @@ description: Communication skills learning
                     <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ 'https://vimeo.com/410209797/91f54b9708'class="video-link" }}"><img src="/img/youngpeople.png"></a>
+                        <a href="{{ 'https://vimeo.com/410209797/91f54b9708' }}"><img src="/img/youngpeople.png"></a>
                         </div>
                         <h2>How to use the HEADSSS tool</h2>
                     </div>
