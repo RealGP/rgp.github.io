@@ -10,3 +10,4 @@ keywords: patient centred prescribing, older people, De-prescribing, elderly peo
 youtube: https://vimeo.com/439331061/0ebe74d8f4
 soundcloud: 
 duration: 47m 28s
+---
