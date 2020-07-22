@@ -158,7 +158,7 @@ title:  "Clinicians"
                         <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms" height="200px">
-                          <a href="{{ '/older' }}"><img src="/img/Dr_Jane_Hallpin.png" title="Communicating with older people" height="100%"></a>
+                          <a href="{{ '/older' }}"><img src="/img/Dr_Jane_Hallpin_.png" title="Communicating with older people" height="100%"></a>
                         </div>
                         <h2>Videos that teach you how to ensure that older people choose where and how they are treated</h2>
                         <p>Communicating with older people</p>
