@@ -107,7 +107,7 @@ description: Communication skills learning
                             <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/CSA' }}"><img src="/img/Dr_Jane_Hallpin_.png"></a>
+                        <a href="{{ '/CSA' }}"><img src="/img/Dr_Jane_Hallpin_sml.png"></a>
                         </div>
                         <h2>Communicating with older people</h2>
                     </div>
