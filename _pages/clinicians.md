@@ -29,7 +29,6 @@ title:  "Clinicians"
             <li align="left"> 3. Shared decision options. These are extended option discussions with patients with specific conditions. These recordings are suitable for GPs and patients alike</li>
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
              <li align="left">5. Physical examinations for GPs. Videos of physical examinations ideal for GPs and the CSA</li>
-             <li align="left">6. Communicating with older people. Videos that teach you how to ensure that older people choose where and how they are treated</li>
           </ul>
           <br><br> 
           </div>
@@ -155,15 +154,6 @@ title:  "Clinicians"
                         <p>Videos of physical examinations ideal for GPs and the CSA</p>
                     </div>
                          </div>
-                        <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms" height="200px">
-                          <a href="{{ '/older' }}"><img src="/img/Dr_Jane_Hallpin_.png" title="Communicating with older people" height="100%"></a>
-                        </div>
-                        <h2>Videos that teach you how to ensure that older people choose where and how they are treated</h2>
-                        <p>Communicating with older people</p>
-                    </div>
-                         </div> 
                      </div>
                 </div>
             </div>
