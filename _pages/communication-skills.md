@@ -18,7 +18,7 @@ description: Communication skills learning
         </div>
    </section>
 
-<section id="services">
+<section id="communication">
         <div class="container">
             <div class="row">
              
@@ -38,80 +38,57 @@ description: Communication skills learning
 </div>
 </section>
 
-<section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms"><a href="{{ '/map-of-the-consultation' }}">
-                            <img src="/img/map_consultation2.jpg"></a>
-                        </div>
-                        <h2>Map of the Consultation Workshop</h2>
-                    </div>
+<section id="communication-skills">
+        <div class="container" style="padding-top: 50px; padding-bottom: 50px">
+            <div class="row h-50">
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/map-of-the-consultation' }}">
+                    <img src="/img/map_consultation2.jpg" width="30%"></a>
+                    <h2>Map of the Consultation Workshop</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <a href="{{ '/calgary-cambridge-model' }}"><img src="/img/Calgary.jpg"></a>
-                        </div>
-                        <h2>Calgary Cambridge Workshop</h2>
-                    </div>
+                <div class="col-md-4 text-center align-self-center">
+                    <a href="{{ '/calgary-cambridge-model' }}">
+                    <img src="/img/Calgary.jpg" width="60%"></a>
+                    <h2>Calgary Cambridge Workshop</h2>
+                </div>         
+                <div class="col-md-4 text-center align-self-center">
+                     <a href="{{ '/shared' }}">
+                     <img src="/img/fairground.jpg" width="60%"></a>
+                     <h2>Shared Decision Making Workshop</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/shared' }}"><img src="/img/fairground.jpg"></a>
-                        </div>
-                        <h2>Shared Decision Making Workshop</h2>
-                    </div>
+            </div>
+             <div class="row h-50">
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/red-flags' }}">
+                    <img src="/img/redflag.png" width="40%"></a>
+                    <h2>Red Flag Demonstration</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/red-flags' }}"><img src="/img/redflag.png"></a>
-                        </div>
-                        <h2>Red Flag Demonstration</h2>
-                    </div>
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/emotional' }}">
+                    <img src="/img/Western.png" width="60%"></a>
+                    <h2>Emotional Health Workshop</h2>
+                </div> 
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/elicit' }}">
+                    <img src="/img/people.jpg" width="60%"></a>
+                    <h2>Elicit, Provide, Elicit Demonstration</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/emotional' }}"><img src="/img/Western.png"></a>
-                        </div>
-                        <h2>Emotional Health Workshop</h2>
-                    </div>
+            </div>
+             <div class="row">
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/CSA' }}">
+                    <img src="/img/headmaster.jpg" width="60%"></a>
+                    <h2>How to pass the CSA</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/elicit' }}"><img src="/img/people.jpg"></a>
-                        </div>
-                        <h2>Elicit, Provide, Elicit Demonstration</h2>
-                    </div>
+                <div class="col-md-4 text-center align-middle">
+                    <a href="https://vimeo.com/410209797/91f54b9708" target="_blank">
+                    <img src="/img/youngpeople.png" width="60%"></a> 
+                    <h2>How to use the HEADSSS tool</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/CSA' }}"><img src="/img/headmaster.jpg"></a>
-                        </div>
-                        <h2>How to pass the CSA</h2>
-                    </div>
-                </div>
-                    <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ 'https://vimeo.com/410209797/91f54b9708' }}"><img src="/img/youngpeople.png"></a>
-                        </div>
-                        <h2>How to use the HEADSSS tool</h2>
-                    </div>
-                            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                        <a href="{{ '/CSA' }}"><img src="/img/Dr_Jane_Hallpin_3.png"></a>
-                        </div>
-                        <h2>Communicating with older people</h2>
-                    </div>
+                <div class="col-md-4 text-center align-middle">
+                    <a href="{{ '/CSA' }}">
+                    <img src="/img/Dr_Jane_Hallpin_3.png" width="60%"></a>
+                    <h2>Communicating with older people</h2>
                 </div>
             </div>
         </div>
-</section>
