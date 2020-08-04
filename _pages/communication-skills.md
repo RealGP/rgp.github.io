@@ -86,7 +86,7 @@ description: Communication skills learning
                     <h2>How to use the HEADSSS tool</h2>
                 </div>
                 <div class="col-md-4 text-center align-middle">
-                    <a href="{{ '/CSA' }}">
+                    <a href="{{ '/older' }}">
                     <img src="/img/Dr_Jane_Hallpin_3.png" width="60%"></a>
                     <h2>Communicating with older people</h2>
                 </div>
