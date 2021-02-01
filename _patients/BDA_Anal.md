@@ -1,7 +1,7 @@
 ---
 category: Anal fissure
 title: Anal Fissure in adults - Brief Decision Aid.
-description: Anal Fisure in adults - Management Options - Brief Decision Aids are designed to help you answer three questions, Do I have options? What are the benefits and risks of these options, (and how likely are they)? How can we make a decision together that is right for me?
+description: Anal Fissure in adults - Management Options - Brief Decision Aids are designed to help you answer three questions, Do I have options? What are the benefits and risks of these options, (and how likely are they)? How can we make a decision together that is right for me?
 audio: 
 article: /assets/publication/anal-fissure.pdf
 www: 
