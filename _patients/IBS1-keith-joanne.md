@@ -5,7 +5,6 @@ description: Listen to Dr Keith Birrell guiding Joanne to make informed decision
 audio: /assets/audio/Joanne - IBS Options - MQ.mp3
 article: 
 www: 
-keywords: Audio, shared decision options,
-irritable bowel syndrome, bloating, constipation, diarrhoea, abdominal pain, informed decision, cognitive behavioural therapy, CBT, low FODMAP diet
+keywords: Audio, shared decision options,irritable bowel syndrome, bloating, constipation, diarrhoea, abdominal pain, informed decision, cognitive behavioural therapy, CBT, low FODMAP diet
 youtube:
 --- 
