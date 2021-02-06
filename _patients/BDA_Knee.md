@@ -1,5 +1,5 @@
 ---
-category: Knee osteoarthritis
+category: Osteoarthritis - Knee
 title: Knee osteoarthritis - Brief Decision Aid.
 description: Osteoarthritis (OA) of the Knee  - Management Options - Brief Decision Aids are designed to help you answer three questions, Do I have options? What are the benefits and risks of these options, (and how likely are they)? How can we make a decision together that is right for me?
 audio: 
