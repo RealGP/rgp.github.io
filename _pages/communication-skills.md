@@ -65,7 +65,7 @@ description: Communication skills learning
                 </div>
                 <div class="col-md-4 text-center align-middle">
                     <a href="{{ '/emotional' }}">
-                    <img src="/img/Western.png" width="60%"></a>
+                    <img src="/img/Drinking less colour 2.png" width="60%"></a>
                     <h2>Emotional Health Workshop</h2>
                 </div> 
                 <div class="col-md-4 text-center align-middle">
