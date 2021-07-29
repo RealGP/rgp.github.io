@@ -53,7 +53,7 @@ description: Communication skills learning
                 </div>         
                 <div class="col-md-4 text-center align-self-center">
                      <a href="{{ '/shared' }}">
-                     <img src="/img/fairground.jpg" width="60%"></a>
+                     <img src="/img/Options colour 1.png" width="60%"></a>
                      <h2>Shared Decision Making Workshop</h2>
                 </div>
             </div>
