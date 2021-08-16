@@ -139,7 +139,7 @@ title:  "Clinicians"
                          <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms" height="200px">
-                          <a href="{{ '/GP-curriculum' }}"><img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" height="100%"></a>
+                          <a href="{{ '/GP-curriculum' }}"><img src="/img/hill.png" title="Dot the i’s and cross the t’s, be my apprentice" height="100%"></a>
                         </div>
                         <h2>Share our Consultations from across the GP curriculum </h2>
                         <p>Dot the i's and cross the t’s, be my apprentice</p>
