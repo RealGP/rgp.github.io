@@ -60,7 +60,7 @@ description: Communication skills learning
              <div class="row h-50">
                 <div class="col-md-4 text-center align-middle">
                     <a href="{{ '/red-flags' }}">
-                    <img src="/img/redflag.png" width="40%"></a>
+                    <img src="/img/Red flags.png" width="40%"></a>
                     <h2>Red Flag Demonstration</h2>
                 </div>
                 <div class="col-md-4 text-center align-middle">
