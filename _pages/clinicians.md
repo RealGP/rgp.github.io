@@ -34,7 +34,7 @@ title:  "Clinicians"
           </div>
           <div class="col-md-6">
               <center>
-                    <a href="{{ '/clinicians_how2' }}"><img src="/img/Clinician1.png" alt="">
+                    <a href="{{ '/clinicians_how2' }}"><img src="/img/how2.png" alt="">
                     <h2>How to use our resources</h2>
                     <p>Access our guides to each role and area</p></a>
                 </center>
