@@ -5,7 +5,7 @@ description: The Epworth Sleepiness Scale (ESS) is a scale to measure daytime sl
 audio: 
 page: 
 article: 
-www: https://www.sleepapnea.org/assets/files/pdf/ESS%20PDF%201990-97.pdf
+www: https://www.sleepapnea.org/wp-content/uploads/2017/02/ESS-PDF-1990-97.pdf
 keywords: Sleep, waking, insomnia, night, apnoea, stress, Epworth, restriction, audio, questionnaire, sleep hygiene, sleep problem, sleep restriction
 youtube:
 --- 
